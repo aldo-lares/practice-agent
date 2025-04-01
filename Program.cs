@@ -36,7 +36,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-app.UseHttpsRedirection();
 app.UseCors("AllowAll");
+app.UseHttpsRedirection();
 app.MapControllers();
 app.Run();
