@@ -101,6 +101,19 @@ namespace PracticeAgent.Plugins
 
             // Returns response to the user
             ChatResponse response = new ChatResponse { Chat = chat, Message = _message, Success = true };
+            
+            // Compute survey progress if available
+            if (chat?.Survey != null && chat.Survey.questions != null)
+            {
+                int total = chat.TotalQuestions;
+                int answered = chat.AnsweredSurvey.questions.Count;
+                int progress = total > 0 ? (int)Math.Round((double)answered * 100 / total) : 0;
+                
+                response.TotalQuestions = total;
+                response.AnsweredQuestions = answered;
+                response.Progress = progress;
+            }
+            
             return response;
         }
 

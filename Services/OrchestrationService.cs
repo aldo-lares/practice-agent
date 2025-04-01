@@ -74,7 +74,10 @@ namespace PracticeAgent.Services
                 return new APIResponse
                 {
                     Response = stringBuilder.ToString(),
-                    Success = response.Success
+                    Success = response.Success,
+                    TotalQuestions = response.TotalQuestions,
+                    AnsweredQuestions = response.AnsweredQuestions,
+                    Progress = response.Progress,
                 };
             }
             catch (Exception ex)
@@ -242,6 +245,7 @@ namespace PracticeAgent.Services
         {
             string init = _agent.InitAgent();
             Survey survey = _surveyService.LoadSurveyFromFile();
+            chat.TotalQuestions = survey.questions.Count;
             chat.Survey = survey;
             await _chatService.PutMessageAsync(chat, init, AuthorRole.Assistant);
             return init;

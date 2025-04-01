@@ -8,6 +8,7 @@ namespace PracticeAgent.Models
         public Survey Survey { get; set; } = new Survey();
         public Question LastAskedQuestion { get; set; } = null;
         public Survey AnsweredSurvey { get; set; } = new Survey();
+        public int TotalQuestions { get; set; }
 
     }
 }
