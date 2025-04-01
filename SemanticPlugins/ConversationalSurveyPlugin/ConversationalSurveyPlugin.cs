@@ -6,10 +6,10 @@ using Microsoft.SemanticKernel;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using NJsonSchema;
-using OLSOrca.Models;
+using PracticeAgent.Models;
 using OpenAI.Chat;
 
-namespace OLSOrca.SemanticPlugins
+namespace PracticeAgent.SemanticPlugins
 {
     public class ConversationalSurveyPlugin
     {

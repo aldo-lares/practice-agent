@@ -6,9 +6,9 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Services.Interfaces;
 
-namespace OLSOrca.Services
+namespace PracticeAgent.Services
 {
     /// <summary>
     /// Implementation of IAudioTranscriptionService using OpenAI's Whisper model

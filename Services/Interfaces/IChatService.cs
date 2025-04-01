@@ -1,7 +1,7 @@
 using Microsoft.SemanticKernel.ChatCompletion;
-using OLSOrca.Models;
+using PracticeAgent.Models;
 
-namespace OLSOrca.Services.Interfaces
+namespace PracticeAgent.Services.Interfaces
 {
     public interface IChatService
     {

@@ -1,8 +1,8 @@
-using OLSOrca.Services;
-using OLSOrca.Interfaces;
-using OLSOrca.Plugins;
+using PracticeAgent.Services;
+using PracticeAgent.Interfaces;
+using PracticeAgent.Plugins;
 using Microsoft.SemanticKernel;
-using OLSOrca.Services.Interfaces; // Add this namespace
+using PracticeAgent.Services.Interfaces; // Add this namespace
 
 //creates the API Builder
 var builder = WebApplication.CreateBuilder(args);

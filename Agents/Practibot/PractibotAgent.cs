@@ -1,18 +1,18 @@
-using OLSOrca.Interfaces;
-using OLSOrca.Models;
+using PracticeAgent.Interfaces;
+using PracticeAgent.Models;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Agents;
-using OLSOrca.SemanticPlugins;
+using PracticeAgent.SemanticPlugins;
 using ChatMessageContent = Microsoft.SemanticKernel.ChatMessageContent;
 using System.Text;
 using System.Drawing;
-using OLSOrca.Utilities;
-using OLSOrca.Services;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Utilities;
+using PracticeAgent.Services;
+using PracticeAgent.Services.Interfaces;
 
 
-namespace OLSOrca.Plugins
+namespace PracticeAgent.Plugins
 {
     public class PractibotAgent : IPractibotAgent
     {

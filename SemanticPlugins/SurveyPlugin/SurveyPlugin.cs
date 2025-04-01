@@ -1,12 +1,12 @@
 using System.ComponentModel;
 using Microsoft.SemanticKernel;
-using OLSOrca.Models;
+using PracticeAgent.Models;
 using System.Text.RegularExpressions;
 using Microsoft.Azure.Cosmos.Serialization.HybridRow;
 using Newtonsoft.Json;
 using NJsonSchema;
 
-namespace OLSOrca.SemanticPlugins
+namespace PracticeAgent.SemanticPlugins
 {
     public class SurveyPlugin
     {

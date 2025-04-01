@@ -2,7 +2,7 @@ using System.ComponentModel;
 using System.Threading.Tasks;
 using Microsoft.SemanticKernel;
 
-namespace OLSOrca.SemanticPlugins
+namespace PracticeAgent.SemanticPlugins
 {
     public class TranslatePlugin
     {

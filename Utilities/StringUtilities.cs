@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace OLSOrca.Utilities
+namespace PracticeAgent.Utilities
 {
     public static class StringUtilities
     {

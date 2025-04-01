@@ -1,4 +1,4 @@
-namespace OLSOrca.Services.Interfaces
+namespace PracticeAgent.Services.Interfaces
 {
     /// <summary>
     /// Service for transcribing audio content to text

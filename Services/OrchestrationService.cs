@@ -1,18 +1,18 @@
 using Microsoft.Extensions.Configuration;
-using OLSOrca.Interfaces;
-using OLSOrca.Models;
+using PracticeAgent.Interfaces;
+using PracticeAgent.Models;
 using Microsoft.SemanticKernel.ChatCompletion;
 using System.Net;
 using Microsoft.Azure.Cosmos;
 using System.Text.Json;
 using Microsoft.SemanticKernel;
 using System.Text;
-using OLSOrca.Utilities;
-using OLSOrca.Services.Interfaces;
-using OLSOrca.SemanticPlugins;
+using PracticeAgent.Utilities;
+using PracticeAgent.Services.Interfaces;
+using PracticeAgent.SemanticPlugins;
 using Microsoft.Extensions.Logging;
 
-namespace OLSOrca.Services
+namespace PracticeAgent.Services
 {
     /// <summary>
     /// Service responsible for orchestrating chat interactions between users and AI agents

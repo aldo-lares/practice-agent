@@ -1,11 +1,11 @@
 using System.Text.Json;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
-using OLSOrca.Models;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Models;
+using PracticeAgent.Services.Interfaces;
 using System.Text;
 
-namespace OLSOrca.Services
+namespace PracticeAgent.Services
 {
     public class ChatService : IChatService
     {   

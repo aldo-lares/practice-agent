@@ -1,9 +1,9 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using OLSOrca.Services;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Services;
+using PracticeAgent.Services.Interfaces;
 
-namespace OLSOrca.Extensions
+namespace PracticeAgent.Extensions
 {
     public static class ServiceCollectionExtensions
     {

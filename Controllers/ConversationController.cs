@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using OLSOrca.Services;
-using OLSOrca.Models;
+using PracticeAgent.Services;
+using PracticeAgent.Models;
 
-namespace OLSOrca.Controllers
+namespace PracticeAgent.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

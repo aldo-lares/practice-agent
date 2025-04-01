@@ -1,7 +1,7 @@
-using OLSOrca.Models;
+using PracticeAgent.Models;
 using Microsoft.SemanticKernel;
 
-namespace OLSOrca.Interfaces
+namespace PracticeAgent.Interfaces
 {
     public interface IPractibotAgent
     {

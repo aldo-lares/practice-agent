@@ -1,7 +1,7 @@
 using System.Text.Json.Serialization;
 using System.Text;
 
-namespace OLSOrca.Models
+namespace PracticeAgent.Models
 {
     public class Survey
     {

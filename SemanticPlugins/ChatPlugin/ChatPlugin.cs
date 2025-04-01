@@ -1,7 +1,7 @@
 using System.ComponentModel;
 using Microsoft.SemanticKernel;
 
-namespace OLSOrca.SemanticPlugins
+namespace PracticeAgent.SemanticPlugins
 {
     public class ChatPlugin
     {

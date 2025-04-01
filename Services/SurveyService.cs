@@ -1,12 +1,12 @@
 using System.Text.Json;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
-using OLSOrca.Models;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Models;
+using PracticeAgent.Services.Interfaces;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace OLSOrca.Services
+namespace PracticeAgent.Services
 {
     public class SurveyService : ISurveyService
     {    

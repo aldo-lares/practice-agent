@@ -1,6 +1,6 @@
 using System.Net;
 using Microsoft.Azure.Cosmos;
-using OLSOrca.Services.Interfaces;
+using PracticeAgent.Services.Interfaces;
 using Newtonsoft.Json;
 using Microsoft.SemanticKernel;
 using System.Text.Json;
@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 using Newtonsoft.Json.Linq;
 
-namespace OLSOrca.Services
+namespace PracticeAgent.Services
 {
     public class CosmosService: ICosmosService
     {        

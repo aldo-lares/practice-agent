@@ -1,6 +1,6 @@
 using Microsoft.SemanticKernel.ChatCompletion;
 
-namespace OLSOrca.Models
+namespace PracticeAgent.Models
 {
     public class ChatCore
     {

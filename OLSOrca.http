@@ -1,6 +1,6 @@
-@OLSOrca_HostAddress = http://localhost:5156
+@PracticeAgent_HostAddress = http://localhost:5156
 
-GET {{OLSOrca_HostAddress}}/weatherforecast/
+GET {{PracticeAgent_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

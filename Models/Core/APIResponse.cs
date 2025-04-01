@@ -1,4 +1,4 @@
-namespace OLSOrca.Models
+namespace PracticeAgent.Models
 {
     public class APIResponse
     {

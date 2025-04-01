@@ -1,4 +1,4 @@
-namespace OLSOrca.Services.Interfaces
+namespace PracticeAgent.Services.Interfaces
 {
     public interface ICosmosService
     {
