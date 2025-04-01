@@ -1,6 +1,0 @@
-@PracticeAgent_HostAddress = http://localhost:5156
-
-GET {{PracticeAgent_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
