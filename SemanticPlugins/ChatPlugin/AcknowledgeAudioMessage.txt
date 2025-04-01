@@ -1,0 +1,2 @@
+AUDIO RECIBIDO: {{$audioFormat}}
+RESPONDE: Breve, respetuoso, amigable. Confirma la recepción del audio y proporciona una respuesta menor de 15 palabras.

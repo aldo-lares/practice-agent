@@ -1,0 +1,35 @@
+1,¿Cómo te identificas?,Perfil General,[1]
+2,¿Cuántos años tienes?,Perfil General,[2]
+3,¿En qué estado vives actualmente?,Perfil General,[3]
+4,¿Y en qué municipio vives?,Perfil General,[4]
+5,"Cuando te trasladas a tu lugar de prácticas, ¿qué medio de transporte sueles usar?",Perfil General,[5]
+6,¿En qué empresa estás haciendo tus prácticas?,Datos Académicos y de la Empresa,[6]
+7,¿Cuántas horas a la semana dedicas a tus prácticas?,Datos Académicos y de la Empresa,[7]
+8,¿En qué universidad estudias?,Datos Académicos y de la Empresa,[8]
+9,¿Cómo fue tu ingreso a la empresa?,Datos Académicos y de la Empresa,[9]
+10,¿Cuál es tu área de formación?,Datos Académicos y de la Empresa,[10]
+11,¿Y qué carrera estudias?,Datos Académicos y de la Empresa,[11]
+12,¿Hablas algún idioma además del español? ¿Cuál es tu nivel?,Datos Académicos y de la Empresa,"[12, 13]"
+13,¿Qué fue lo que te motivó a hacer tus prácticas en esta empresa y cómo te enteraste de la vacante?,Motivación y Proceso de Ingreso,"[14, 16]"
+14,¿Recomendarías a alguien hacer sus prácticas en esta empresa?,Motivación y Proceso de Ingreso,[15]
+15,¿Cómo describirías el proceso de postulación? ¿Fue claro y sencillo?,Motivación y Proceso de Ingreso,[17]
+16,¿En qué modalidad estás realizando tus prácticas?,Motivación y Proceso de Ingreso,[18]
+17,"Hablando de la beca, ¿cuál es el monto mensual aproximado que recibes (sin contar transporte o alimentos)? Y ¿consideras que es justo por las responsabilidades que tienes?",Motivación y Proceso de Ingreso,"[19, 20]"
+18,¿Qué beneficios te ha dado la empresa como practicante?,Motivación y Proceso de Ingreso,[21]
+19,"Desde tu primer día, ¿te sentiste bien recibido(a)? ¿Recibiste alguna inducción o 'onboarding'?",Integración y Bienvenida,"[22, 25]"
+20,¿Te ayudaron a entender las expectativas y tareas de tu rol? ¿Sientes que tu trabajo tiene un propósito claro?,Integración y Bienvenida,"[23, 26]"
+21,¿Te sientes incluido(a) en el equipo y en las actividades de la empresa?,Integración y Bienvenida,[24]
+22,"Al terminar tus prácticas, ¿te gustaría seguir colaborando con esta empresa?",Integración y Bienvenida,[27]
+23,¿Sientes que puedes mantener un equilibrio entre tus prácticas y tu vida personal/estudios?,Integración y Bienvenida,[28]
+24,¿Has tenido oportunidades de aprendizaje y crecimiento en tu estancia? ¿Te sientes motivado(a)?,Desarrollo y Cultura Organizacional,"[29, 30]"
+25,¿El programa de prácticas ha cumplido con tus expectativas?,Desarrollo y Cultura Organizacional,[31]
+26,"¿Tu líder o mentor te ha valorado, ha sido claro con tus tareas y te da retroalimentación frecuente?",Desarrollo y Cultura Organizacional,"[32, 35, 36, 37]"
+27,¿Sientes que puedes expresar tus ideas libremente y que se reconocen tus logros?,Desarrollo y Cultura Organizacional,"[33, 34]"
+28,¿Cuentas con póliza contra accidentes?,Desarrollo y Cultura Organizacional,[38]
+29,¿Estás logrando tus metas personales y académicas?,Desarrollo y Cultura Organizacional,[39]
+30,¿Te identificas con los valores y la cultura de la empresa?,Desarrollo y Cultura Organizacional,[40]
+31,¿Conoces el código de ética de la empresa y los canales para reportar alguna falta?,Desarrollo y Cultura Organizacional,[41]
+32,¿La empresa tiene algún espacio que apoye tu bienestar físico o emocional?,Desarrollo y Cultura Organizacional,[42]
+33,¿Tu universidad te preparó bien para enfrentar los retos de tus prácticas?,Desarrollo y Cultura Organizacional,[43]
+34,¿Los proyectos en los que participas están alineados con tu carrera profesional?,Desarrollo y Cultura Organizacional,[44]
+35,¿La empresa te ayuda a compartir tu perfil y mejorar tus oportunidades de empleo?,Desarrollo y Cultura Organizacional,[45]

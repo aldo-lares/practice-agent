@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Agents",
+    "\\Agents\\Practibot",
+    "\\SemanticPlugins",
+    "\\SemanticPlugins\\QuestionResolverPlugin\\Evaluate",
+    "\\SemanticPlugins\\TranslatePlugin",
+    "\\SemanticPlugins\\TranslatePlugin\\translateToFrench",
+    "\\SemanticPlugins\\TranslatePlugin\\translateToKrikoriko",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Agents\\Practibot\\IPractibotAgent.cs",
+  "PreviewInSolutionExplorer": false
+}

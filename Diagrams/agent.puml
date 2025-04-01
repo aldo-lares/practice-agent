@@ -1,0 +1,24 @@
+@startuml
+start
+:Receive user open-ended answer;
+:Identify corresponding original questions;
+:Analyze response\nwith AI/NLP to extract sentiment;
+:Map sentiment to fixed options;
+:Update answers for each original question;
+if (Any unanswered or ambiguous?) then (yes)
+  if (Conversational question already asked?) then (yes)
+    if (No valid mapping achieved) then (yes)
+      :Ask explicit original question;
+    else (no)
+      :Select next conversational question targeting\nremaining questions;
+      :Ask follow-up conversational question;
+    endif
+  else (no)
+    :Select next conversational question targeting\nremaining questions;
+    :Ask follow-up conversational question;
+  endif
+else (no)
+  :Proceed with next overall question;
+endif
+stop
+@enduml

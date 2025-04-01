@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aldolares\\Code\\LaresTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldolares\\Code\\LaresTest\\Agents\\Practibot\\PractibotAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agents\\Practibot\\PractibotAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldolares\\Code\\LaresTest\\Services\\OrchestrationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OrchestrationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aldolares\\Code\\LaresTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "skprompt.txt",
+              "DocumentMoniker": "C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt",
+              "RelativeDocumentMoniker": "SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt",
+              "ToolTip": "C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt",
+              "RelativeToolTip": "SemanticPlugins\\TranslatePlugin\\translateToKrikoriko\\skprompt.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-13T07:24:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PractibotAgent.cs",
+              "DocumentMoniker": "C:\\Users\\aldolares\\Code\\LaresTest\\Agents\\Practibot\\PractibotAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\Practibot\\PractibotAgent.cs",
+              "ToolTip": "C:\\Users\\aldolares\\Code\\LaresTest\\Agents\\Practibot\\PractibotAgent.cs",
+              "RelativeToolTip": "Agents\\Practibot\\PractibotAgent.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:55:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranslatePlugin.cs",
+              "DocumentMoniker": "C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs",
+              "RelativeDocumentMoniker": "SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs",
+              "ToolTip": "C:\\Users\\aldolares\\Code\\LaresTest\\SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs",
+              "RelativeToolTip": "SemanticPlugins\\TranslatePlugin\\TranslatePlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:16:12.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrchestrationService.cs",
+              "DocumentMoniker": "C:\\Users\\aldolares\\Code\\LaresTest\\Services\\OrchestrationService.cs",
+              "RelativeDocumentMoniker": "Services\\OrchestrationService.cs",
+              "ToolTip": "C:\\Users\\aldolares\\Code\\LaresTest\\Services\\OrchestrationService.cs",
+              "RelativeToolTip": "Services\\OrchestrationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:14:27.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aldolares\\Code\\LaresTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aldolares\\Code\\LaresTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:11:53.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+TAKE THE INPUT AND RETURN IT BACKWARDS.
+
+{{$input}}
+
+And always add OH LA LA at the end.

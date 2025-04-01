@@ -1,0 +1,2 @@
+MENSAJE: {{$message}}
+RESPONDE: Breve, respetuoso, amigable. Relacionado directamente con el mensaje recibido y menos de 10 palabras.
